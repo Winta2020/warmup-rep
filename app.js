@@ -1,5 +1,6 @@
-var winta;
-winta = 16;
-function discount() {
-  return discount * total 
-}
+$('document').ready(function(){
+  $('header').click (function(){
+    console.log("YO!");
+    $('article').addClass("orange");
+  });
+});
